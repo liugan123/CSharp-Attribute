@@ -1,0 +1,9 @@
+E:\Code\CSharp-Attribute\Attributes\bin\Debug\netcoreapp3.1\Attributes.deps.json
+E:\Code\CSharp-Attribute\Attributes\bin\Debug\netcoreapp3.1\Attributes.dll
+E:\Code\CSharp-Attribute\Attributes\bin\Debug\netcoreapp3.1\Attributes.pdb
+E:\Code\CSharp-Attribute\Attributes\obj\Debug\netcoreapp3.1\Attributes.csprojAssemblyReference.cache
+E:\Code\CSharp-Attribute\Attributes\obj\Debug\netcoreapp3.1\Attributes.csproj.CoreCompileInputs.cache
+E:\Code\CSharp-Attribute\Attributes\obj\Debug\netcoreapp3.1\Attributes.AssemblyInfoInputs.cache
+E:\Code\CSharp-Attribute\Attributes\obj\Debug\netcoreapp3.1\Attributes.AssemblyInfo.cs
+E:\Code\CSharp-Attribute\Attributes\obj\Debug\netcoreapp3.1\Attributes.dll
+E:\Code\CSharp-Attribute\Attributes\obj\Debug\netcoreapp3.1\Attributes.pdb
